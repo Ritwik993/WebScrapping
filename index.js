@@ -5,7 +5,7 @@ async function run() {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto(
-    "https://www.compass.com/homes-for-sale/alameda-county-ca/mapview=37.905823999999996,-121.469214,37.454186,-122.373782/"
+    "https://www.compass.com/homes-for-sale/alameda-county-ca/mapview=37.905823999999996,-121.469214,37.454186,-122.373782/",{ timeout: 60000 }
   );
   let InfoArray = [];
 
@@ -24,61 +24,7 @@ async function run() {
 
   for (const url of pageElement) {
     await page.goto(url, { waitUntil: "networkidle2" });
-    // const infoElement = await page.evaluate(() => {
-    //   let name = document.querySelector(".summary__StyledAddress-e4c4ok-8");
-    //   let url = document
-    //     .querySelector("#media-gallery-hero-image")
-    //     .getAttribute("src");
-    //   const price = document.querySelector(
-    //     ".summary__StyledSummaryDetailUnit-e4c4ok-4"
-    //   ).innerText;
-    //   let priceClean = price.replace(/[$,]/g, "").replace(/\s*Price/, "");
-    //   const address = document.querySelector(
-    //     ".summary__StyledAddressSubtitle-e4c4ok-9"
-    //   ).innerText;
-    //   const beds = document.querySelector(
-    //     '[data-tn="listing-page-summary-beds"] .summary__StyledSummaryDetailUnit-e4c4ok-4 .textIntent-title2'
-    //   ).innerText;
-    //   const baths = document.querySelector(
-    //     '[data-tn="listing-page-summary-baths"] .summary__StyledSummaryDetailUnit-e4c4ok-4 .textIntent-title2'
-    //   ).innerText;
-    //   const sqft = document.querySelector(
-    //     '[data-tn="listing-page-summary-sq-ft"] .summary__StyledSummaryDetailUnit-e4c4ok-4 .textIntent-title2'
-    //   ).innerText;
-    //   const sqftClean = sqft.replace(/[,\bSq. Ft.]/g, "");
-    //   const text = document.querySelector(
-    //     ".data-table__TableStyledTd-ibnf7p-1"
-    //   ).innerText;
-    //   let comingSoon = false;
-    //   if (text === "Coming Soon") {
-    //     comingSoon = true;
-    //   }
-    //   const location = document.querySelectorAll("ul.cx-breadcrumbs li");
-    //   const city = location[2].querySelector("a").innerText;
-    //   const postalCode = location[3].querySelector("a").innerText;
-    //   const region = location[4].querySelector("a").innerText;
-    //   const state = location[1].querySelector("a").innerText;
-    //   const description = document.querySelector(
-    //     "div.description__StyledSectionWrapper-sc-1v5jw5i-2 div.textIntent-body div.sc-eGknBQ.WiThW"
-    //   ).innerText;
-    //   name = name.innerText;
 
-    //   return {
-    //     name,
-    //     image: url,
-    //     price: Number(priceClean),
-    //     address,
-    //     postalCode,
-    //     city,
-    //     region,
-    //     state,
-    //     beds,
-    //     baths,
-    //     sqft: Number(sqftClean),
-    //     comingSoon,
-    //     description,
-    //   };
-    // });
     const infoElement = await page.evaluate(() => {
       let name = document?.querySelector(".summary__StyledAddress-e4c4ok-8");
       let urlElement = document?.querySelector("#media-gallery-hero-image");
@@ -182,33 +128,7 @@ async function run() {
         county,
       };
     });
-    //   console.log(propertyInfo);
 
-    // const schools = await page.evaluate(() => {
-    //   const data = document.querySelectorAll(
-    //     ".sc-evHTmi.jKTZGQ table.cx-react-table tbody .cx-react-tr"
-    //   );
-    //   let schoolArr = [];
-    //   data.forEach((element) => {
-    //     const innerData = element.querySelectorAll(".cx-react-td");
-    //     const rating = innerData[0].querySelector(".sc-fnhnaa span").innerHTML;
-    //     //  const ratingFinal=rating[0].innerHTML;
-    //     const name = innerData[1].querySelector(
-    //       ".sc-jWoPvc a.cx-textLink"
-    //     ).innerHTML;
-    //     const type = innerData[2].querySelector("span").innerHTML;
-    //     const grades = innerData[3].innerHTML;
-    //     const splitText = grades.split(" ");
-    //     const gradesFrom = splitText[0];
-    //     const gradesTo = splitText[2];
-    //     const distance = innerData[4]
-    //       .querySelector(".sc-lkMDMP.icvjYO")
-    //       .innerHTML.split(" ")[0];
-    //     schoolArr.push({ rating, type, gradesFrom, gradesTo, distance });
-    //   });
-
-    //   return schoolArr;
-    // });
     const schools = await page.evaluate(() => {
       const data = document.querySelectorAll(
         ".sc-evHTmi.jKTZGQ table.cx-react-table tbody .cx-react-tr"
@@ -225,7 +145,6 @@ async function run() {
         const distanceElement =
           innerData[4]?.querySelector(".sc-lkMDMP.icvjYO");
 
-        // Check if all required elements are found before extracting data
         if (
           ratingElement &&
           nameElement &&
@@ -251,12 +170,148 @@ async function run() {
             distance,
           });
         } else {
-          // Log a message or handle the case where one or more elements are not found
           console.error("One or more required elements not found");
         }
       });
 
       return schoolArr;
+    });
+
+    const amenities = await page.evaluate(() => {
+      function toCamelCase(str) {
+        return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
+          if (+match === 0) return "";
+          return index === 0 ? match.toLowerCase() : match.toUpperCase();
+        });
+      }
+
+      const data = document?.querySelectorAll(
+        '#amenities-wrapper div ul li[data-tn="uc-listing-amenity"]'
+      );
+      const amenitiesArray = Array.from(data)?.map((item) => item?.innerText);
+
+      const amenitiesObject = {};
+      amenitiesArray.forEach((amenity) => {
+        const camelCaseKey = toCamelCase(amenity);
+        amenitiesObject[camelCaseKey] = amenity;
+      });
+
+      return amenitiesObject;
+    });
+
+    const buildingInfo = await page.evaluate(() => {
+      const data = document?.querySelectorAll(
+        'div[data-tn="listing-page-building-info-building-info-wrapper"] span.building-info__BuildingInfoLineItem-sc-85jvb8-1.ggYXgK'
+      );
+
+      function toCamelCase(str) {
+        return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
+          if (+match === 0) return "";
+          return index === 0 ? match.toLowerCase() : match.toUpperCase();
+        });
+      }
+      const buildingInfoMap = new Map();
+      data.forEach((element) => {
+        const key = element?.querySelector(
+          'span[data-tn="uc-listing-buildingInfo"]'
+        ).innerHTML;
+        const value = element?.querySelector("strong")?.innerHTML;
+        buildingInfoMap.set(toCamelCase(key), value);
+      });
+      const buildingInfoObject = Object.fromEntries(buildingInfoMap);
+      return buildingInfoObject;
+    });
+
+    const homeFacts = await page.evaluate(() => {
+      const data = document?.querySelectorAll(
+        'div[data-tn="uc-listing-assessorInfo-homeFacts"] div.category-table__TableWrapper-sc-18hdii3-0.kXAGKf span.jbxvLV'
+      );
+      function toCamelCase(str) {
+        return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
+          if (+match === 0) return "";
+          return index === 0 ? match.toLowerCase() : match.toUpperCase();
+        });
+      }
+      const homeFactsInfoMap = new Map();
+      data.forEach((element) => {
+        const key = element?.querySelector("span").innerHTML;
+        let value = element?.querySelector("strong").innerHTML;
+        value = value.replace(/[,\bSq. Ft.]/g, "");
+        homeFactsInfoMap.set(toCamelCase(key), value);
+      });
+      const homeFactsInfoObject = Object?.fromEntries(homeFactsInfoMap);
+      return homeFactsInfoObject;
+    });
+    const homeForSale = await page.evaluate(() => {
+      let categories = [];
+      const title = document?.querySelector(
+        "div#nearbySearchWrapper h2.uc-nearbySearch-title"
+      )?.innerHTML;
+      const data = document?.querySelectorAll(
+        "div#nearbySearchWrapper div.uc-nearbySearch-container"
+      );
+      data.forEach((element) => {
+        const data1 = element?.querySelectorAll("div.uc-nearbySearch-column");
+        let links = [];
+        data1.forEach((e) => {
+          const name = e?.querySelector("h2.textIntent-title2")?.innerHTML;
+          const item = e?.querySelectorAll("ul li");
+          item.forEach((e2) => {
+            const ans = e2.querySelector("a")?.innerHTML;
+            links.push(ans);
+          });
+          links = Array.from(links);
+          categories.push({ name, links });
+        });
+      });
+      const disclaimer = document?.querySelector(
+        ".disclaimer__StyledDisclaimer-tsc1ui-1"
+      )?.innerHTML;
+      return { title, categories, disclaimer };
+    });
+
+    const publicRecords = await page.evaluate(() => {
+      const data = document?.querySelectorAll(
+        "div#publicFacts div.public-facts__TaxInfoWrapper-sc-19n5r74-0.biERKw div.public-facts-subsection__PublicFactsSubsection-ee1xld-1"
+      );
+      if(data==undefined){
+        return null;
+      }
+      let records = {}; // Use an object to store the records
+      let dataMap = new Map();
+      const title = data[0]?.querySelector("strong")?.innerHTML;
+      const data2 = data[0]?.querySelectorAll(
+        "span.public-facts__TaxableValueItem-sc-19n5r74-1.dCnYGl"
+      );
+      if(data2===undefined)
+        return null;
+      key = data2[0]?.querySelector("span")?.innerHTML;
+      value = data2[0]
+        ?.querySelector("strong")
+        ?.innerHTML?.replace(/[$,]/g, "");
+      dataMap.set(key, Number(value));
+      key = data2[1]?.querySelector("span")?.innerHTML;
+      value = data2[1]
+        ?.querySelector("strong")
+        ?.innerHTML?.replace(/[$,]/g, "");
+      dataMap.set(key, Number(value));
+      key = data2[2]?.querySelector("strong")?.innerHTML;
+      value = data2[2]
+        ?.querySelector("strong:nth-of-type(2)")
+        ?.innerHTML?.replace(/[$,]/g, "");
+      dataMap.set(key, Number(value));
+      records[title] = Object.fromEntries(dataMap);
+
+      let dataMap2 = new Map();
+      const title2 = data[1]?.querySelector("strong")?.innerHTML;
+      key = data[1]?.querySelector(
+        "span.public-facts__TaxRecordItem-sc-19n5r74-2 span"
+      )?.innerHTML;
+      value=data[1]?.querySelector('span.public-facts__TaxRecordItem-sc-19n5r74-2 strong')?.innerHTML?.split(' ')[0]?.replace(/[,$<!--]/g,"");
+     
+      dataMap2.set(key, Number(value));
+      records[title2] = Object.fromEntries(dataMap2);
+      return records;
     });
 
     //   console.log(schools);
@@ -265,13 +320,18 @@ async function run() {
       ...infoElement,
       propertyListingDetails: propertyInfo,
       schools,
+      amenities,
+      buildingInfo,
+      homeFacts,
+      homeForSale,
+      publicRecords,
     };
     InfoArray.push(combinedInfo);
     //   console.log(InfoArray);
     // console.log(JSON.stringify(InfoArray, null, 2));
   }
   //Save data to JSON file
-  fs.writeFile("demo2.json", InfoArray, (err) => {
+  fs.writeFile("demo4.json", JSON.stringify(InfoArray), (err) => {
     if (err) throw err;
     console.log("File saved");
   });
@@ -379,7 +439,6 @@ async function run4() {
     "https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/"
   );
 
- 
   const homeFacts = await page.evaluate(() => {
     const data = document.querySelectorAll(
       'div[data-tn="uc-listing-assessorInfo-homeFacts"] div.category-table__TableWrapper-sc-18hdii3-0.kXAGKf span.jbxvLV'
@@ -393,11 +452,11 @@ async function run4() {
     const homeFactsInfoMap = new Map();
     data.forEach((element) => {
       const key = element.querySelector("span").innerHTML;
-      let value = element.querySelector('strong').innerHTML;
-      value=value.replace(/[,\bSq. Ft.]/g, "");
+      let value = element.querySelector("strong").innerHTML;
+      value = value.replace(/[,\bSq. Ft.]/g, "");
       homeFactsInfoMap.set(toCamelCase(key), value);
     });
-    const homeFactsInfoObject=Object.fromEntries(homeFactsInfoMap);
+    const homeFactsInfoObject = Object.fromEntries(homeFactsInfoMap);
     return homeFactsInfoObject;
   });
   console.log(homeFacts);
@@ -405,61 +464,141 @@ async function run4() {
 }
 // run4();
 
-async function run5(){
-  const browser=await puppeteer.launch({headless:false});
-  const page=await browser.newPage();
-  await page.goto("https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/");
-  const homeForSale=await page.evaluate(()=>{
-    let categories=[];
-    const title=document.querySelector('div#nearbySearchWrapper h2.uc-nearbySearch-title').innerHTML;
-    const data=document.querySelectorAll('div#nearbySearchWrapper div.uc-nearbySearch-container');
-    data.forEach((element)=>{
-      const data1=element.querySelectorAll('div.uc-nearbySearch-column');
-      let links=[];
-      data1.forEach((e)=>{
-        const name=e.querySelector('h2.textIntent-title2').innerHTML;
-        const item=e.querySelectorAll('ul li');
-        item.forEach((e2)=>{
-          const ans=e2.querySelector('a').innerHTML;
+async function run5() {
+  const browser = await puppeteer.launch({ headless: false });
+  const page = await browser.newPage();
+  await page.goto(
+    "https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/"
+  );
+  const homeForSale = await page.evaluate(() => {
+    let categories = [];
+    const title = document.querySelector(
+      "div#nearbySearchWrapper h2.uc-nearbySearch-title"
+    ).innerHTML;
+    const data = document.querySelectorAll(
+      "div#nearbySearchWrapper div.uc-nearbySearch-container"
+    );
+    data.forEach((element) => {
+      const data1 = element.querySelectorAll("div.uc-nearbySearch-column");
+      let links = [];
+      data1.forEach((e) => {
+        const name = e.querySelector("h2.textIntent-title2").innerHTML;
+        const item = e.querySelectorAll("ul li");
+        item.forEach((e2) => {
+          const ans = e2.querySelector("a").innerHTML;
           links.push(ans);
-        })
-        links=Array.from(links);
-        categories.push({name,links});
-      })
-    })
-    const disclaimer=document.querySelector('.disclaimer__StyledDisclaimer-tsc1ui-1').innerHTML;
-    return {title,categories,disclaimer};
-  })
+        });
+        links = Array.from(links);
+        categories.push({ name, links });
+      });
+    });
+    const disclaimer = document.querySelector(
+      ".disclaimer__StyledDisclaimer-tsc1ui-1"
+    ).innerHTML;
+    return { title, categories, disclaimer };
+  });
   console.log(JSON.stringify(homeForSale, null, 2));
   await browser.close();
 }
 // run5();
 
-async function run6(){
-  const browser=await puppeteer.launch({headless:false});
-  const page=await browser.newPage();
-  await page.goto("https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/");
-  const publicRecords=await page.evaluate(()=>{
-    const data=document.querySelectorAll('div#publicFacts div.public-facts__TaxInfoWrapper-sc-19n5r74-0.biERKw div.public-facts-subsection__PublicFactsSubsection-ee1xld-1');
-    let arr=[];                                           
-    data.forEach((element)=>{
-      const title=element.querySelector('strong').innerHTML;
-      const data2=element.querySelectorAll('span');
-      const dataMap=new Map();
-      data2.forEach((e)=>{
-        const value=e.querySelector('strong').innerHTML;
-        const key=e.querySelector('span')?.innerHTML;
-        dataMap.set(key,value);
-      })
-      arr[title]=dataMap;
+// const puppeteer = require('puppeteer');
 
-    })
-    return arr;
-  })
+// async function run6() {
+//   const browser = await puppeteer.launch({ headless: false });
+//   const page = await browser.newPage();
+//   await page.goto("https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/");
+
+//   const publicRecords = await page.evaluate(() => {
+//     const data = document.querySelectorAll('div#publicFacts div.public-facts__TaxInfoWrapper-sc-19n5r74-0.biERKw div.public-facts-subsection__PublicFactsSubsection-ee1xld-1');
+//     let records = {}; // Use an object to store the records
+
+//     data.forEach((element) => {
+//       const titleElement = element.querySelector('strong').innerHTML;
+//       const title = titleElement ? titleElement.innerHTML : 'No title found';
+
+//       const data2 = element.querySelectorAll('span.public-facts__TaxableValueItem-sc-19n5r74-1.dCnYGl');
+//       const dataMap = new Map();
+
+//       data2.forEach((e) => {
+//         const valueElement = e.querySelector('strong');
+//         const keyElement = e.querySelector('span');
+
+//         const key = keyElement ? keyElement.innerHTML : 'Unknown key';
+//         const value = valueElement ? valueElement.innerHTML : 'Unknown value';
+
+//         dataMap.set(key, value);
+//       });
+
+//       records[title] = Object.fromEntries(dataMap); // Convert Map to Object for easier logging
+//     });
+
+//     return records;
+//   });
+
+//   console.log(JSON.stringify(publicRecords, null, 2));
+//   await browser.close();
+// }
+
+async function run6() {
+  const browser = await puppeteer.launch({ headless: false });
+  const page = await browser.newPage();
+  await page.goto(
+    "https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/"
+  );
+
+  const publicRecords = await page.evaluate(() => {
+    const data = document.querySelectorAll(
+      "div#publicFacts div.public-facts__TaxInfoWrapper-sc-19n5r74-0.biERKw div.public-facts-subsection__PublicFactsSubsection-ee1xld-1"
+    );
+    let records = {}; // Use an object to store the records
+    let dataMap = new Map();
+    const title = data[0].querySelector("strong").innerHTML;
+    const data2 = data[0].querySelectorAll(
+      "span.public-facts__TaxableValueItem-sc-19n5r74-1.dCnYGl"
+    );
+    key = data2[0].querySelector("span").innerHTML;
+    value = data2[0].querySelector("strong").innerHTML.replace(/[$,]/g, "");
+    dataMap.set(key, Number(value));
+    key = data2[1].querySelector("span").innerHTML;
+    value = data2[1].querySelector("strong").innerHTML.replace(/[$,]/g, "");
+    dataMap.set(key, Number(value));
+    key = data2[2].querySelector("strong").innerHTML;
+    value = data2[2]
+      .querySelector("strong:nth-of-type(2)")
+      .innerHTML.replace(/[$,]/g, "");
+    dataMap.set(key, Number(value));
+    records[title] = Object.fromEntries(dataMap);
+
+    let dataMap2 = new Map();
+    const title2 = data[1].querySelector("strong").innerHTML;
+    key = data[1].querySelector(
+      "span.public-facts__TaxRecordItem-sc-19n5r74-2 span"
+    ).innerHTML;
+    value = data[1]
+      .querySelector("span.public-facts__TaxRecordItem-sc-19n5r74-2 strong")
+      .innerHTML.split(" ")[0]
+      .replace(/[,$<!--]/g, "");
+    dataMap2.set(key, Number(value));
+    records[title2] = Object.fromEntries(dataMap2);
+    return records;
+  });
   console.log(publicRecords);
+  // console.log(JSON.stringify(publicRecords, null, 2));
   await browser.close();
 }
-run6();
 
+// run6();
 
+async function run7() {
+  const browser = await puppeteer.launch({ headless: false });
+  const page = await browser.newPage();
+  await page.goto(
+    "https://www.compass.com/listing/5-evirel-place-oakland-ca-94611/1603016919870853265/"
+  );
+  const propertyInformation = await page.evaluate(() => {});
+}
 
+// run7();
+
+run();
