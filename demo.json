@@ -1,0 +1,3013 @@
+[
+  {
+    "name": "1038 Begonia Drive",
+    "image": "https://maps.googleapis.com/maps/api/streetview?key=AIzaSyDyHecinsUnnfHp51HkbLrQcTqXyyz3qOA&size=640x427&source=outdoor&location=1038%20Begonia%20Drive,Alameda,CA,94502&signature=cHyJW5Msn5FyZPBIVFO2MJPYVUE=",
+    "price": 1090000,
+    "address": "Alameda, CA 94502",
+    "postalCode": "94502",
+    "city": "Alameda",
+    "region": "Bay Farm Island",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1196,
+    "comingSoon": true,
+    "description": "Welcome to your slice of paradise on Bay Farm Island! Nestled on a rare corner lot, this charming 3-bedroom, 2-bathroom ranch-style home is tailor-made for those with a green thumb and a love for outdoor living. Step into the backyard and discover your very own oasis, boasting a plethora of fruit trees and a thriving vegetable garden. Imagine harvesting fresh produce right outside your door, adding a delightful touch to your culinary creations. Inside, the home features an updated galley kitchen,...",
+    "propertyListingDetails": {
+      "status": "Coming Soon",
+      "daysOnCompass": "424033088",
+      "taxes": "-",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Single Family Residence",
+      "lotSize": "1956",
+      "county": "0.10 AC / 4,159 SF"
+    },
+    "schools": [
+      {
+        "rating": "8",
+        "name": "Amelia Earhart Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.8"
+      },
+      {
+        "rating": "8",
+        "name": "Lincoln Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.4"
+      },
+      {
+        "rating": "9",
+        "name": "Alameda High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.2"
+      },
+      {
+        "rating": "2",
+        "name": "Island High (Continuation) School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.7"
+      },
+      {
+        "rating": "10",
+        "name": "Alameda Science And Technology Institute",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.9"
+      }
+    ]
+  },
+  {
+    "image": null,
+    "price": null,
+    "sqft": null,
+    "comingSoon": false,
+    "propertyListingDetails": {},
+    "schools": []
+  },
+  {
+    "name": "8156 Coach Drive",
+    "image": "https://www.compass.com/m/0/174217ce-c4de-411e-8eb8-f19b91e7a537/origin.webp",
+    "price": 1950000,
+    "address": "Oakland, CA 94605",
+    "postalCode": "94605",
+    "city": "Oakland",
+    "region": "Sequoyah Hills",
+    "state": "CA",
+    "beds": "5",
+    "baths": "2",
+    "sqft": 2076,
+    "comingSoon": true,
+    "description": "Discover your dream home in the Oakland Hills with this beautifully renovated Eichler masterpiece. This 5 bed, 2-bath home seamlessly blends mid-century charm with modern luxury, preserving the integrity of the original design while incorporating contemporary touches. Step inside to find a stunning interior atrium that bathes the home in natural light, creating a serene indoor-outdoor living experience. The kitchen boasts a top-notch culinary experience with nods to the past: new Thermador appliances...",
+    "propertyListingDetails": {
+      "status": "Coming Soon",
+      "daysOnCompass": "-",
+      "taxes": "-",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "Single Family",
+      "mlsType": "-",
+      "yearBuilt": "1965",
+      "lotSize": "0.24 AC / 10,350 SF",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "5",
+        "name": "Carl B. Munck Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.6"
+      },
+      {
+        "rating": "5",
+        "name": "Montera Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "4.9"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.4"
+      },
+      {
+        "rating": "3",
+        "name": "Independent Study, Sojourner Truth School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "1",
+        "name": "Rudsdale Continuation School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "5",
+        "name": "Bay Area Technology School",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.0"
+      }
+    ]
+  },
+  {
+    "name": "4909 Winterbrook Avenue",
+    "image": "https://www.compass.com/m/7624444f5f28b976cee6a7f0a8731356ef17426d_img_0_163ff/origin.webp",
+    "price": 1899888,
+    "address": "Dublin, CA 94568",
+    "postalCode": "94568",
+    "city": "Dublin",
+    "state": "CA",
+    "beds": "6",
+    "baths": "3",
+    "sqft": 2575,
+    "comingSoon": true,
+    "description": "Welcome to 4909 Winterbrook Ave, a meticulously maintained 2,575 sq ft home in the heart of Dublin, CA. This stunning property offers 6 spacious bedrooms and 3 full bathrooms, including a luxurious master suite with a walk-in closet and en-suite bathroom. The bright and open floor plan features an inviting living area perfect for gatherings, a modern kitchen with granite countertops, stainless steel appliances, and ample cabinetry. Step outside to a beautifully landscaped backyard with a patio area...",
+    "propertyListingDetails": {
+      "status": "Coming Soon",
+      "daysOnCompass": "ML81968710",
+      "taxes": "-",
+      "hoaFees": "-",
+      "condoCoopFees": "$165 / quarter",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Single-Family Homes / Single-Family Homes",
+      "lotSize": "2000",
+      "county": "0.12 AC / 5,060 SF"
+    },
+    "schools": [
+      {
+        "rating": "8",
+        "name": "James Dougherty Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      },
+      {
+        "rating": "8",
+        "name": "Eleanor Murray Fallon School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.9"
+      },
+      {
+        "rating": "9",
+        "name": "Dublin High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.3"
+      },
+      {
+        "rating": "3",
+        "name": "Valley High (Continuation) School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.0"
+      }
+    ]
+  },
+  {
+    "name": "25439 Parklane Drive",
+    "image": "https://www.compass.com/m/320a40f14f9b14f346dc1647b5a827bb82483fa1_img_0_d66d0/origin.webp",
+    "price": 749998,
+    "address": "Hayward, CA 94544",
+    "postalCode": "94544",
+    "city": "Hayward",
+    "region": "Mission-Foothill",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 1445,
+    "comingSoon": true,
+    "description": "Built in 2019 by Meritage Homes and practically still brand-new, this tri-level townhome-style condo is situated perfectly in a clean, quiet community. Upon entering, a staircase will lead you up to the main floor which expands into the open concept floor-plan, complete with both a living and dining space. Kitchen is bright an open, with white cabinetry, stone countertops, tiled backsplash, stainless steel appliances and large, walk-in pantry. Large windows and soaring 10 ft ceilings expand the room...",
+    "propertyListingDetails": {
+      "status": "Coming Soon",
+      "daysOnCompass": "ML81965044",
+      "taxes": "-",
+      "hoaFees": "-",
+      "condoCoopFees": "$295 / month",
+      "compassType": "-",
+      "mlsType": "Townhouse",
+      "yearBuilt": "Single-Family Homes / Townhouse",
+      "lotSize": "2019",
+      "county": "-"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Stonebrae Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "6",
+        "distance": "3.0"
+      },
+      {
+        "rating": "4",
+        "name": "Bret Harte Middle School",
+        "type": "Public",
+        "gradesFrom": "7",
+        "gradesTo": "8",
+        "distance": "1.1"
+      },
+      {
+        "rating": "6",
+        "name": "Hayward High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.2"
+      },
+      {
+        "rating": "7",
+        "name": "Leadership Public Schools - Hayward",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.3"
+      },
+      {
+        "rating": "5",
+        "name": "Knowledge Enlightens You (Key) Academy",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "1.5"
+      },
+      {
+        "rating": "2",
+        "name": "Brenkwitz High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.9"
+      }
+    ]
+  },
+  {
+    "name": "139 Waldo Avenue",
+    "image": "https://www.compass.com/m/ae5fe2747807347a92f5744d284e8f20371e0ce8_img_0_29e70/origin.webp",
+    "price": 2895000,
+    "address": "Piedmont, CA 94611",
+    "postalCode": "94611",
+    "city": "Piedmont",
+    "state": "CA",
+    "beds": "4",
+    "baths": "3",
+    "sqft": 3284,
+    "comingSoon": false,
+    "description": "This elegant and inviting home sits in the center of Piedmont’s friendliest street, renowned for its Halloween decorations, festive block parties, and impromptu gatherings alike, and features 4bdrms/3.5 baths, formal living and dining rooms, a beautifully updated kitchen & family room combo that opens onto a sunny deck, and flexible bonus space below. A stylish “turn-key” haven, this endearing property harkens back to a period when children rode their bikes out front, while their parents visited...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063089",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1926",
+      "county": "0.10 AC / 4,500 SF"
+    },
+    "schools": [
+      {
+        "rating": "9",
+        "name": "Havens Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.2"
+      },
+      {
+        "rating": "9",
+        "name": "Piedmont Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.3"
+      },
+      {
+        "rating": "10",
+        "name": "Piedmont High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.3"
+      },
+      {
+        "rating": "7",
+        "name": "Millennium High Alternative School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.3"
+      },
+      {
+        "rating": "9",
+        "name": "Wildwood Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.6"
+      },
+      {
+        "rating": "8",
+        "name": "Beach Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.7"
+      }
+    ]
+  },
+  {
+    "name": "4223 Howe Street",
+    "image": "https://www.compass.com/m/40e744c77eaff41a7b013fced53d009eb313d51a_img_0_633c4/origin.webp",
+    "price": 995000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "region": "Piedmont Avenue",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 1324,
+    "comingSoon": false,
+    "description": "Urban oasis in the heart of Piedmont Ave! Tucked away on a flag-shaped lot you’ll find an updated craftsman beaming with pride of ownership and surrounded by lush gardens. A rare combination of privacy, updated systems, easy outdoor living, and walkability (98 Walk Score!). The front driveway has easy off-street parking for 2 cars. Enter the enclosed front garden and you'll feel transported into this sanctuary. The main level has an entryway, spacious living room, dining room, and a brightly remodeled...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063892",
+      "taxes": "1",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1916",
+      "county": "0.07 AC / 2,855 SF"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.1"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.1"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.3"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.6"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland Military Institute, College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.2"
+      }
+    ]
+  },
+  {
+    "name": "2111 Trafalgar Place",
+    "image": "https://www.compass.com/m/e4c70467bb871f887d1537adbd9944c4db799a9a_img_0_31187/origin.webp",
+    "price": 1095000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 1324,
+    "comingSoon": false,
+    "description": "Remodeled mid century modern just a short distance to Montclair Village! New updates include new quartz kitchen countertops, new GE double oven, new gas 5 burner GE cooktop with hood vent, new SS under mount sink basin and refinished kitchen cabinetry. The home has new recessed lighting in the kitchen, family room and bedrooms. Along with new luxury plank vinyl flooring and new bathroom white tile. The newly repainted interior and exterior seamlessly blends the home’s modern amenities with classic...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41064157",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "1959",
+      "county": "0.18 AC / 7,920 SF"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Montclair Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "5",
+        "name": "Montera Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.6"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.2"
+      },
+      {
+        "rating": "8",
+        "name": "Oakland Charter High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.7"
+      },
+      {
+        "rating": "6",
+        "name": "Life Academy",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "2.8"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.8"
+      }
+    ]
+  },
+  {
+    "name": "5 Evirel Place",
+    "image": "https://www.compass.com/m/4a8bfea0dabf822695f4afdf1bea92d6b8492bad_img_0_0cc2d/origin.webp",
+    "price": 998000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1808,
+    "comingSoon": false,
+    "description": "Experience the beauty of this mid-century split-level home at the end of a cul-de-sac. Featuring an open floor plan and a spacious deck that offers panoramic views of San Francisco, Bay Bridge, and Mt. Tam. With 3 generously sized bedrooms and 2.5 bathrooms, this home is perfect for modern living. The large family and dining area boasts a beautiful stone and wood fireplace. Situated on an expansive down-sloped lot, there is ample space for gardening and enjoying your own private sanctuary. Conveniently...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063968",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1976",
+      "county": "0.24 AC / 10,285 SF"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Montclair Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.7"
+      },
+      {
+        "rating": "5",
+        "name": "Montera Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.2"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.5"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.2"
+      },
+      {
+        "rating": "8",
+        "name": "Oakland Charter High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.7"
+      }
+    ]
+  },
+  {
+    "name": "591 Valle Vista Avenue",
+    "image": "https://www.compass.com/m/a8d937696f49e27c1956b081f4dc5eae3843b0c7_img_0_a9329/origin.webp",
+    "price": 1095000,
+    "address": "Oakland, CA 94610",
+    "postalCode": "94610",
+    "city": "Oakland",
+    "region": "Rose Garden",
+    "state": "CA",
+    "beds": "4",
+    "baths": "3",
+    "sqft": 2471,
+    "comingSoon": false,
+    "description": "Welcome to 591 Valle Vista Ave. in the vibrant Grand Lake neighborhood! This sun-lit home exudes period charm with arched doorways, fabulous vintage lighting, and colorful tile bathrooms. Add to this the exuberant splashes of mosaic tile art left by a previous owner, and the true magic of this home comes alive. The interior rooms are spacious and thoughtfully laid out. The hillside views in front sparkle at night, and the wild and wonderful back garden creates an oasis of calm in an urban setting....",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41064218",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1926",
+      "county": "0.10 AC / 4,360 SF"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.9"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.8"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.2"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.0"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.4"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.4"
+      }
+    ]
+  },
+  {
+    "name": "2810 Tenth Street",
+    "image": "https://www.compass.com/m/b80889d137629674b1129e2166d7bd4ed7a18073_img_0_45c1b/origin.webp",
+    "price": 850000,
+    "address": "Berkeley, CA 94710",
+    "postalCode": "94710",
+    "city": "Berkeley",
+    "region": "Southwest Berkeley",
+    "state": "CA",
+    "beds": "5",
+    "baths": "2",
+    "sqft": 2256,
+    "comingSoon": false,
+    "description": "A two-level duplex in West Berkeley ready for improvements throughout! An additional structure spans the rear section of the lot. The backyard has mature plants that include a lemon tree, plum trees, large jade plant & camelia and lush flowers. A partially gated driveway has a stunning bougainvillea and leads to a breezeway that continues to the back yard. Both units have front and back access. The upper unit has a high-ceilinged front living room, large kitchen/dining/family room combo, pantry area...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063553",
+      "taxes": "5",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Multi Family",
+      "yearBuilt": "RESIDENTIAL INCOME / DUPLEX",
+      "lotSize": "1908",
+      "county": "0.10 AC / 4,160 SF"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Washington Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.2"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.8"
+      },
+      {
+        "rating": "6",
+        "name": "Oxford Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.5"
+      },
+      {
+        "rating": "7",
+        "name": "Malcolm X Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.9"
+      },
+      {
+        "rating": "7",
+        "name": "Martin Luther King Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.9"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      }
+    ]
+  },
+  {
+    "name": "1500 Rose Street",
+    "image": "https://www.compass.com/m/03f56697c425495667fa43aa61b7c1fb49d3ab66_img_0_71e8d/origin.webp",
+    "price": 1250000,
+    "address": "Berkeley, CA 94703",
+    "postalCode": "94703",
+    "city": "Berkeley",
+    "region": "North Berkeley",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 1330,
+    "comingSoon": false,
+    "description": "Nestled in one of most desirable pockets of North Berkeley, this stylish single story home offers a blend of modern updates and classic charm. The home features 2 bedrooms and 2 full bathrooms, while the detached garden studio with sound proofing updates is perfect for a music room, art studio, or home office. The level and spacious yard is a perfect place to entertain your guests and is just steps from the gorgeous chef's kitchen which features an oversized bar peninsula w/lux marble countertops,...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063848",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1942",
+      "county": "0.14 AC / 5,936 SF"
+    },
+    "schools": [
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.7"
+      },
+      {
+        "rating": "7",
+        "name": "Thousand Oaks Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "7",
+        "name": "Rosa Parks Environmental Science Magnet School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.1"
+      },
+      {
+        "rating": "8",
+        "name": "Ruth Acty Elementary",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.1"
+      },
+      {
+        "rating": "7",
+        "name": "Martin Luther King Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.3"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      }
+    ]
+  },
+  {
+    "name": "455 Crescent Street, Unit 220",
+    "image": "https://www.compass.com/m/ebeb09139a7c9d515942c835e1f3a63619622ea0_img_0_86d62/origin.webp",
+    "price": 399000,
+    "address": "Oakland, CA 94610",
+    "postalCode": "94610",
+    "city": "Oakland",
+    "region": "Grand Lake",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 792,
+    "comingSoon": false,
+    "description": "Cozy corner unit condo nestled in the coveted Grand Lake area. Wake up to natural light & stunning views of the Oakland Hills. This freshly updated, 2 bedroom / 2 bathroom, is turnkey & ready to go. Electric Panda washer & dryer in the unit. Situated on a cul-de-sac, this secure building provides access to a range of amenities including a swimming pool, laundry facility, and a dedicated parking space and storage. With a walk score of 93, this prime location offers unparalleled convenience, with the...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41064175",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "$653 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1968",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.6"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.2"
+      },
+      {
+        "rating": "2",
+        "name": "Dewey Academy",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      }
+    ]
+  },
+  {
+    "name": "311 2nd Street, Unit 717",
+    "image": "https://www.compass.com/m/e082cedb0af1da25fe1ee1bc8a6f04fd52ef4a5d_img_0_d325d/origin.webp",
+    "price": 1249000,
+    "address": "Oakland, CA 94607",
+    "postalCode": "94607",
+    "city": "Oakland",
+    "region": "Jack London Square",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 1254,
+    "comingSoon": false,
+    "description": "Discover unparalleled luxury with our stunning 2 bed, 2 bath condo, 1 standard and 1 EV parking spaces in Jack London district. Enjoy unobstructed estuary and San Francisco Bay views, creating a serene living environment. This residence epitomizes modern elegance with high-end finishes, state-of-the-art appliances, spacious floor plans, and smart home technology. Located in the vibrant heart of Jack London Square, enjoy dining, entertainment, and shopping within walking distance. Excellent transportation...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "424043544",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "$792 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Residential / Condominium",
+      "lotSize": "2009",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Lincoln Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.5"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.8"
+      },
+      {
+        "rating": "3",
+        "name": "Gateway To College at Laney College School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.6"
+      },
+      {
+        "rating": "7",
+        "name": "American Indian Public Charter School Ii",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "988 Franklin Street, Unit 704",
+    "image": "https://www.compass.com/m/3bc6d17b41ad259f8eb35b1fcfc804ba8ff9a802_img_0_5dc46/origin.webp",
+    "price": 419000,
+    "address": "Oakland, CA 94607",
+    "postalCode": "94607",
+    "city": "Oakland",
+    "region": "Chinatown",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 892,
+    "comingSoon": false,
+    "description": "Bright and beautiful 2 bed, 2 bath contemporary condo in the Pacific Renaissance Plaza, the most desirable high-rise in Oakland Chinatown. This unit features an open floorplan, natural light, and updated flooring throughout. It includes 1 assigned parking space and is within walking distance to the BART station and AC Transit. With easy access to the 880 and 980 Freeways, it's perfect for those seeking a central location. Boasting a walk score of 100, you're just steps away from shops, restaurants,...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063959",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "$835 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1993",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Lincoln Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.2"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.1"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.4"
+      },
+      {
+        "rating": "7",
+        "name": "American Indian Public Charter School Ii",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.3"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "3",
+        "name": "Gateway To College at Laney College School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "399 Tucker Avenue",
+    "image": "https://www.compass.com/m/0cfff961a2ef9ff4b553a9dead3872f5ad4a5e90_img_0_b24a8/origin.webp",
+    "price": 1495000,
+    "address": "Alameda, CA 94501",
+    "postalCode": "94501",
+    "city": "Alameda",
+    "region": "Bayport",
+    "state": "CA",
+    "beds": "5",
+    "baths": "3",
+    "sqft": 2361,
+    "comingSoon": false,
+    "description": "Welcome to 399 Tucker Ave, a beautiful home in the wonderful Bayport Alameda community. A prime corner location that combines suburban tranquility with unparalleled convenience for city commuters. Features 5 bedrooms & 3 bathrooms, an updated kitchen with modern finishes like granite counters, custom matching high end appliances, wine cabinet and wine refrigerator. Luxury vinyl flooring spans throughout the lower-level and brand-new carpeting upstairs. The lower-level bedroom has a pull-down bed...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063645",
+      "taxes": "5",
+      "hoaFees": "-",
+      "condoCoopFees": "$171 / month",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "2006",
+      "county": "0.07 AC / 3,010 SF"
+    },
+    "schools": [
+      {
+        "rating": "4",
+        "name": "Ruby Bridges Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.2"
+      },
+      {
+        "rating": "7",
+        "name": "Encinal Junior/Senior High",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "10",
+        "name": "Alameda Science And Technology Institute",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.4"
+      },
+      {
+        "rating": "4",
+        "name": "Nea Community Learning Center School",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "12",
+        "distance": "0.4"
+      },
+      {
+        "rating": "7",
+        "name": "Alameda Community Learning Center",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "0.4"
+      }
+    ]
+  },
+  {
+    "name": "9 Clipper Hill",
+    "image": "https://www.compass.com/m/ef2d4e11a9bf1481bdb3984d63174a0767eb649d_img_0_9c966/origin.webp",
+    "price": 1249000,
+    "address": "Oakland, CA 94618",
+    "postalCode": "94618",
+    "city": "Oakland",
+    "region": "Hiller Highlands",
+    "state": "CA",
+    "beds": "3",
+    "baths": "3",
+    "sqft": 1984,
+    "comingSoon": false,
+    "description": "A hillside haven in coveted Hiller Highlands featuring stunning views of San Francisco, the Golden Gate Bridge, Marin, & beyond. Welcome to 9 Clipper Hill. Built in 1995, this contemporary 3+ bed 3 bath home features a spacious open floor plan that is accentuated by soaring vaulted ceilings, providing an airy and light-filled living space that is ideal for entertaining or relaxing with family and friends. A private garden and sun deck off the back are set amongst a verdant hillside. Just inside,...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063910",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "$750 / quarter",
+      "compassType": "-",
+      "mlsType": "Townhouse",
+      "yearBuilt": "RESIDENTIAL / Townhouse",
+      "lotSize": "1995",
+      "county": "0.05 AC / 1,984 SF"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Thornhill Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.5"
+      },
+      {
+        "rating": "7",
+        "name": "Chabot Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "6",
+        "name": "Claremont Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.6"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.2"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.4"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland Military Institute, College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "3.1"
+      }
+    ]
+  },
+  {
+    "name": "3119 Marina Drive",
+    "image": "https://www.compass.com/m/35956056dad12cebf3d6e9654633d427bd36ae78_img_0_86a45/origin.webp",
+    "price": 1150000,
+    "address": "Alameda, CA 94501",
+    "postalCode": "94501",
+    "city": "Alameda",
+    "region": "Alameda East End",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 1136,
+    "comingSoon": false,
+    "description": "Waterfront property with an excellent floor plan. Features hardwood floors in the living room, dining room, and two bedrooms. Dual-pane windows in the living areas and all bedrooms. Located in a great school district with easy access to freeway 880. The property offers incredible potential but requires some TLC to reach its full glory. ----- This is a fantastic opportunity you don't want to miss!",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41062731",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "1942",
+      "county": "0.11 AC / 4,961 SF"
+    },
+    "schools": [
+      {
+        "rating": "8",
+        "name": "Edison Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "8",
+        "name": "Lincoln Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.9"
+      },
+      {
+        "rating": "9",
+        "name": "Alameda High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "10",
+        "name": "Alameda Science And Technology Institute",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.1"
+      },
+      {
+        "rating": "2",
+        "name": "Island High (Continuation) School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "3.1"
+      }
+    ]
+  },
+  {
+    "name": "1396 East 28th Street",
+    "image": "https://www.compass.com/m/57223d44a8a60099037172aa791250e2feb32dfd_img_0_15d60/origin.webp",
+    "price": 669000,
+    "address": "Oakland, CA 94606",
+    "postalCode": "94606",
+    "city": "Oakland",
+    "region": "Highland Park",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 1180,
+    "comingSoon": false,
+    "description": "Old-world charm meets modern elegance in this gorgeous updated 1920’s home on a corner lot. Gleaming hardwood floors throughout with a bright and airy atmosphere flooded with natural light. The spacious living room features a charming stone fireplace, while dining options abound with a dining room plus a cozy breakfast nook adjacent to the tastefully updated designer kitchen. Boasting soapstone countertops, subway tile backsplash, Mod cabinets, and stainless-steel appliances, the architect-designed...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063951",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1925",
+      "county": "0.05 AC / 2,128 SF"
+    },
+    "schools": [
+      {
+        "rating": "4",
+        "name": "Bella Vista Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      },
+      {
+        "rating": "6",
+        "name": "Edna Brewer Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.4"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "4",
+        "name": "Aspire Lionel Wilson College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "5.6"
+      },
+      {
+        "rating": "4",
+        "name": "Lodestar: A Lighthouse Community Charter Public",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "12",
+        "distance": "5.3"
+      },
+      {
+        "rating": "7",
+        "name": "Francophone Charter School Of Oakland",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "5.3"
+      }
+    ]
+  },
+  {
+    "name": "2125 Marin Avenue",
+    "image": "https://www.compass.com/m/3fc643bd56f74b4b9badc5ae05d52ce59da17b8a_img_0_5edc8/origin.webp",
+    "price": 1195000,
+    "address": "Berkeley, CA 94707",
+    "postalCode": "94707",
+    "city": "Berkeley",
+    "region": "Arlington Heights",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1670,
+    "comingSoon": false,
+    "description": "Welcome to elevated living in this prime Berkeley Hills location, nestled amidst the architectural marvels of a historic Julia Morgan and Laflin house. This turn-key gem, boasting 3 bed, 2 baths, has been thoughtfully refreshed to offer an unmatched blend of comfort and tranquility. The inviting foyer unfolds into a spacious living room with gas fireplace, built-ins, sweeping windows, framing Bay views, while an open-concept chef's kitchen anchors the large dining room, perfect for family dinners...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41062943",
+      "taxes": "2",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "1923",
+      "county": "0.11 AC / 4,800 SF"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Oxford Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "6",
+        "name": "Washington Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.7"
+      },
+      {
+        "rating": "6",
+        "name": "Cragmont Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.2"
+      },
+      {
+        "rating": "7",
+        "name": "Martin Luther King Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.8"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.6"
+      }
+    ]
+  },
+  {
+    "name": "4393 Bridgeview Drive",
+    "image": "https://www.compass.com/m/c4dcc986e84346477030c27d8d3f994f413f42b6_img_0_eb87b/origin.webp",
+    "price": 1695000,
+    "address": "Oakland, CA 94602",
+    "postalCode": "94602",
+    "city": "Oakland",
+    "region": "Upper Oakmore",
+    "state": "CA",
+    "beds": "4",
+    "baths": "3",
+    "sqft": 2478,
+    "comingSoon": false,
+    "description": "Seller financing of 2.25% maybe available to well qualified individuals that can provide a large down payment. Welcome to your urban oasis in the highly sought-after Oakmore neighborhood, featuring expansive views of the iconic Leimert Bridge and lush canyons from every room. This remodeled contemporary home is defined by its vaulted ceilings, hardwood floors, architectural details, and expansive windows that flood the interior with natural light. The home offers a versatile layout with 4 bedrooms...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "ML81970522",
+      "taxes": "1",
+      "hoaFees": "-",
+      "condoCoopFees": "$75 / year",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Single-Family Homes / Detached",
+      "lotSize": "1976",
+      "county": "0.14 AC / 6,313 SF"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Joaquin Miller Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.7"
+      },
+      {
+        "rating": "5",
+        "name": "Montera Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.7"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.9"
+      },
+      {
+        "rating": "8",
+        "name": "Oakland Charter High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.9"
+      },
+      {
+        "rating": "6",
+        "name": "Life Academy",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.9"
+      }
+    ]
+  },
+  {
+    "name": "200 2nd Street, Unit 103",
+    "image": "https://www.compass.com/m/2346c148777c23ad014c5cb3932963e65842630e_img_0_55dad/origin.webp",
+    "price": 599000,
+    "address": "Oakland, CA 94607",
+    "postalCode": "94607",
+    "city": "Oakland",
+    "region": "Jack London Square",
+    "state": "CA",
+    "beds": "1",
+    "sqft": 737,
+    "comingSoon": false,
+    "description": "Charming 1 Bed + Bonus Room Condo with Private Patio in Jack London Square. Discover your perfect urban retreat in vibrant Jack London Square! This beautifully appointed 1 bedroom, 1 bathroom condo features a versatile bonus room, ideal for a home office, guest space, or creative studio. Located in the sought-after 94607 zip code, this stylish residence offers the perfect blend of comfort and convenience. The spacious bedroom is cozy and filled with natural light. The modern bathroom boasts sleek...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "424043552",
+      "taxes": "1",
+      "hoaFees": "-",
+      "condoCoopFees": "$530 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Residential / Condominium",
+      "lotSize": "2006",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Lincoln Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.5"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.8"
+      },
+      {
+        "rating": "3",
+        "name": "Gateway To College at Laney College School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.4"
+      },
+      {
+        "rating": "7",
+        "name": "American Indian Public Charter School Ii",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.5"
+      },
+      {
+        "rating": "2",
+        "name": "Dewey Academy",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.7"
+      }
+    ]
+  },
+  {
+    "name": "1508 Stuart Street",
+    "image": "https://www.compass.com/m/609fed310acac0ced162b1b17505e72119dab3c7_img_0_3f22b/origin.webp",
+    "price": 1349000,
+    "address": "Berkeley, CA 94703",
+    "postalCode": "94703",
+    "city": "Berkeley",
+    "region": "Berkeley Bowl",
+    "state": "CA",
+    "beds": "5",
+    "baths": "3",
+    "sqft": 1902,
+    "comingSoon": false,
+    "description": "Two single-family homes on one lot: perfect for multi-generational living or generating rental income. The front home is a 3 bed / 2 bath bungalow with hardwood floors, updated windows, and a spacious primary suite with an attached bath. Tucked towards the rear of the lot, the second home, built in 1987, boasts 2 beds / 1 bath and a private deck and backyard. Both homes feature updated kitchens and baths. Owned solar panels offset electricity costs for both homes. The expansive backyard is a haven...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063854",
+      "taxes": "3",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1921",
+      "county": "0.12 AC / 5,400 SF"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Washington Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.8"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.5"
+      },
+      {
+        "rating": "6",
+        "name": "Oxford Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.2"
+      },
+      {
+        "rating": "7",
+        "name": "Malcolm X Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.4"
+      },
+      {
+        "rating": "8",
+        "name": "Willard Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.2"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      }
+    ]
+  },
+  {
+    "name": "320 Lee Street, Unit 401",
+    "image": "https://www.compass.com/m/9211fa71be16922908389fe702ac8e1dcc8205c9_img_0_6f7d7/origin.webp",
+    "price": 499000,
+    "address": "Oakland, CA 94610",
+    "postalCode": "94610",
+    "city": "Oakland",
+    "region": "Adams Point",
+    "state": "CA",
+    "beds": "1",
+    "sqft": 731,
+    "comingSoon": false,
+    "description": "This beautiful south-facing one bedroom one bath residence boasts floor-to-ceiling windows and private balcony covered with beautiful TREX composite decking. Step into the gracious living / dining room dining room area that offers breathtaking panoramic views of the city of Oakland, Lake Merritt, and Adams Point. Featuring a well-proportioned floor plan boasting new luxury vinyl plank flooring, new baseboards, new paint, new fixtures, new appliances, and other luxury upgrade touches. The kitchen...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063515",
+      "taxes": "7",
+      "hoaFees": "-",
+      "condoCoopFees": "$498 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1965",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Lincoln Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.4"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.5"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.7"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "0.8"
+      },
+      {
+        "rating": "7",
+        "name": "American Indian Public Charter School Ii",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.9"
+      }
+    ]
+  },
+  {
+    "name": "288 Whitmore Street, Unit 314",
+    "image": "https://www.compass.com/m/5d4312aca6519207ef190031a0540328035e4ca5_img_0_cefe5/origin.webp",
+    "price": 599000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "region": "Piedmont Avenue",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 950,
+    "comingSoon": false,
+    "description": "Light-filled with soaring ceilings and hardwood floors, this top floor corner unit condo in Rockridge has been tastefully updated and awaits its new owners. With two bedrooms, one bathroom, and a sunny balcony, this 950 sqft unit is sure to impress. The large, open living/dining area seamlessly connects to the kitchen and leads out to a private balcony, offering a perfect space for relaxation or entertaining guests. The galley kitchen has been updated with new quartz countertops and a contemporary...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063439",
+      "taxes": "7",
+      "hoaFees": "-",
+      "condoCoopFees": "$559 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1976",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.4"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.4"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.2"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland Military Institute, College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.2"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      }
+    ]
+  },
+  {
+    "name": "483 Boynton Avenue",
+    "image": "https://www.compass.com/m/83c5a3e91023c2dde82cb69f90bc7ab36484c6c3_img_0_c71b8/origin.webp",
+    "price": 2395000,
+    "address": "Berkeley, CA 94707",
+    "postalCode": "94707",
+    "city": "Berkeley",
+    "region": "Berkeley Hills",
+    "state": "CA",
+    "beds": "5",
+    "baths": "4",
+    "sqft": 3081,
+    "comingSoon": false,
+    "description": "A top-to-bottom remodel elevates this Berkeley Hills Tudor with ADU to a light-filled retreat overlooking treetops and Berkeley skyline, finished with a modern European flair. Enter to soaring skylit ceilings where hand-hewn beams accent an old-world A-framed design. A hand-painted palette of soft naturals unites the open-space design, from the living room’s sleek modern fireplace, to the 8-foot Chef’s kitchen island with stone waterfall counter, to the expansive dining space with floor-to-ceiling...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063700",
+      "taxes": "4",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1926",
+      "county": "0.12 AC / 5,200 SF"
+    },
+    "schools": [
+      {
+        "rating": "8",
+        "name": "Ruth Acty Elementary",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.7"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.7"
+      },
+      {
+        "rating": "7",
+        "name": "Rosa Parks Environmental Science Magnet School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.7"
+      },
+      {
+        "rating": "7",
+        "name": "Thousand Oaks Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.7"
+      },
+      {
+        "rating": "7",
+        "name": "Martin Luther King Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.4"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.3"
+      }
+    ]
+  },
+  {
+    "name": "1715 9th Avenue",
+    "image": "https://www.compass.com/m/083f24154aef3839764419ff32e7290be967fca3_img_0_d4330/origin.webp",
+    "price": 958000,
+    "address": "Oakland, CA 94606",
+    "postalCode": "94606",
+    "city": "Oakland",
+    "region": "Clinton",
+    "state": "CA",
+    "beds": "4",
+    "baths": "4",
+    "sqft": 2603,
+    "comingSoon": false,
+    "description": "Perfectly situated just blocks away from picturesque Lake Merritt, this Clinton Fourplex presents an exceptional opportunity for an owner-occupied investment or for astute investors seeking to capitalize Oakland's thriving rental market with a GRM of 9.22 and 7.18% Cap Rate. The thoughtfully renovated and currently vacant 1-bedroom unit is ideally suited for a market rate tenant or immediate owner occupancy, while a bonus ADU cottage offers further income potential. Adding to its appeal, three units...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063797",
+      "taxes": "3",
+      "hoaFees": "$11,975 / year",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Multi Family",
+      "yearBuilt": "Residential Income / Fourplex",
+      "lotSize": "1900",
+      "county": "0.13 AC / 5,750 SF"
+    },
+    "schools": [
+      {
+        "rating": "4",
+        "name": "Franklin Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.1"
+      },
+      {
+        "rating": "4",
+        "name": "Roosevelt Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.7"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "4",
+        "name": "Aspire Lionel Wilson College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "5.9"
+      },
+      {
+        "rating": "7",
+        "name": "Francophone Charter School Of Oakland",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "5.8"
+      },
+      {
+        "rating": "3",
+        "name": "Aspire Monarch Academy",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "5.7"
+      }
+    ]
+  },
+  {
+    "name": "1508 Stuart Street",
+    "image": "https://www.compass.com/m/67246eac9d742cf037b392cea4f89efe80228e6d_img_0_3f22b/origin.webp",
+    "price": 1349000,
+    "address": "Berkeley, CA 94703",
+    "postalCode": "94703",
+    "city": "Berkeley",
+    "region": "Berkeley Bowl",
+    "state": "CA",
+    "beds": "5",
+    "baths": "3",
+    "sqft": 1902,
+    "comingSoon": false,
+    "description": "Two single-family homes on one lot: perfect for multi-generational living or generating rental income. The front home is a 3 bed / 2 bath bungalow with hardwood floors, updated windows, and a spacious primary suite with an attached bath. Tucked towards the rear of the lot, the second home, built in 1987, boasts 2 beds / 1 bath and a private deck and backyard. Both homes feature updated kitchens and baths. Owned solar panels offset electricity costs for both homes. The expansive backyard is a haven...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063860",
+      "taxes": "3",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Multi Family",
+      "yearBuilt": "RESIDENTIAL INCOME / 2HOUSES-1LOT",
+      "lotSize": "1921",
+      "county": "0.12 AC / 5,400 SF"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "Washington Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.8"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.5"
+      },
+      {
+        "rating": "6",
+        "name": "Oxford Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.2"
+      },
+      {
+        "rating": "7",
+        "name": "Malcolm X Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.4"
+      },
+      {
+        "rating": "8",
+        "name": "Willard Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.2"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      }
+    ]
+  },
+  {
+    "name": "288 Whitmore Street, Unit 318",
+    "image": "https://www.compass.com/m/dbf2708a33fa66d3008d5d624b6fd81832267c17_img_0_68aeb/origin.webp",
+    "price": 329000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "region": "Piedmont Avenue",
+    "state": "CA",
+    "beds": "Studio",
+    "sqft": 450,
+    "comingSoon": false,
+    "description": "Affordable, functional, and flexible, this cute top floor Rockridge studio lives like a one bedroom and is sure to accommodate for many lifestyles. Refined sliding doors divide the common space from the bedroom, creating a better separation of space. The sun rises each morning and hits the Eastern facing private balcony off the living/dining area, perfect for enjoying your morning coffee or tea. The balcony is equipped with a catio/storage area as well! The unit boasts tons of storage options, with...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063438",
+      "taxes": "7",
+      "hoaFees": "-",
+      "condoCoopFees": "$401 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1976",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.4"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.4"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.2"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "4",
+        "name": "Oakland Military Institute, College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.2"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      }
+    ]
+  },
+  {
+    "name": "601 32nd Street",
+    "image": "https://www.compass.com/m/f13fefef12fbe058f6453849be1d4b46c5985402_img_0_cde1b/origin.webp",
+    "price": 795000,
+    "address": "Oakland, CA 94609",
+    "postalCode": "94609",
+    "city": "Oakland",
+    "region": "Hoover-Foster",
+    "state": "CA",
+    "beds": "2",
+    "baths": "2",
+    "sqft": 1784,
+    "comingSoon": false,
+    "description": "Welcome to this multi-family duplex located at 601 32nd St, Oakland, CA. This architecturally captivating property boasts an impressive 1784 square feet of living space. The building style features elegant front porch columns and timeless built-ins, adding a touch of sophistication and charm to the home. Upon entering, you'll be greeted by the warm glow of the hardwood floors that flow throughout the residence. The 2 bedrooms and 2 ceramic bathrooms offer comfort and style, with the primary bathroom...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063615",
+      "taxes": "5",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Multi Family",
+      "yearBuilt": "RESIDENTIAL INCOME / DUPLEX",
+      "lotSize": "1906",
+      "county": "0.11 AC / 4,900 SF"
+    },
+    "schools": [
+      {
+        "rating": "2",
+        "name": "Hoover Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.7"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "4",
+        "name": "Aspire Lionel Wilson College Preparatory Academy",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "8.0"
+      },
+      {
+        "rating": "7",
+        "name": "Francophone Charter School Of Oakland",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "7.8"
+      },
+      {
+        "rating": "4",
+        "name": "Lodestar: A Lighthouse Community Charter Public",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "12",
+        "distance": "7.8"
+      }
+    ]
+  },
+  {
+    "name": "6236 Boulder Lane, Unit 4902",
+    "image": "https://www.compass.com/m/82d88b2c2eabe3b57cced95c98d7ef75aa68b7db_img_0_2c927/origin.webp",
+    "price": 729000,
+    "address": "Oakland, CA 94605",
+    "postalCode": "94605",
+    "city": "Oakland",
+    "region": "Monte Vista Villas",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1390,
+    "comingSoon": false,
+    "description": "Elegant & prestine 3-bedroom, 2.5-bath Monte Vista Villa Townhouse Style Condo nestled in Oakland Hills. Step inside the high ceiling foyer, discover the seamless integration between the living & dining areas, accentuated by the high ceilings, which adds an extra touch of luxury & sophistication. The modern interiors feature granite counters, bespoke light fixtures, & contemporary hardware, creating a stylish & refined living space. Experience the joy of cooking in a thoughtfully designed Chef's...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "424042471",
+      "taxes": "3",
+      "hoaFees": "-",
+      "condoCoopFees": "$575 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Residential / Condominium",
+      "lotSize": "2010",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "4",
+        "name": "Burckhalter Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      },
+      {
+        "rating": "1",
+        "name": "Frick United Academy of Language",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.2"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.4"
+      },
+      {
+        "rating": "8",
+        "name": "Conservatory Of Vocal/Instrumental Arts High",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.7"
+      }
+    ]
+  },
+  {
+    "name": "7900 Surrey Lane",
+    "image": "https://www.compass.com/m/d7fa4bdf7410a470cb0155d9dacbc327712569e9_img_0_d1f34/origin.webp",
+    "price": 939000,
+    "address": "Oakland, CA 94605",
+    "postalCode": "94605",
+    "city": "Oakland",
+    "region": "Sequoyah Hills",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1941,
+    "comingSoon": false,
+    "description": "Nestled in the sought-after Sequoyah Hills neighborhood, this beautifully updated single-level home boasts stunning landscaping and an array of luxurious features. The eat-in gourmet kitchen is a chef’s dream, featuring oversized Caesarstone Quartz countertops, a handcrafted backsplash, and all-new stainless-steel appliances. Entertain with ease as you cook, enjoying the company of friends in the adjoining family room, or dine al fresco on the expansive back patio. This bright and airy home has been...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41064060",
+      "taxes": "1",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1967",
+      "county": "0.18 AC / 7,980 SF"
+    },
+    "schools": [
+      {
+        "rating": "5",
+        "name": "Carl B. Munck Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.4"
+      },
+      {
+        "rating": "5",
+        "name": "Montera Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "4.6"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.0"
+      },
+      {
+        "rating": "1",
+        "name": "Rudsdale Continuation School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "3",
+        "name": "Independent Study, Sojourner Truth School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "5",
+        "name": "Bay Area Technology School",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.2"
+      }
+    ]
+  },
+  {
+    "name": "4 Commodore Drive, Unit D442",
+    "image": "https://www.compass.com/m/65ee2c76451fa36bdecf0a8d0fb03f9e3d4acf40_img_0_82cab/origin.webp",
+    "price": 450000,
+    "address": "Emeryville, CA 94608",
+    "postalCode": "94608",
+    "city": "Emeryville",
+    "region": "Watergate",
+    "state": "CA",
+    "beds": "1",
+    "sqft": 720,
+    "comingSoon": false,
+    "description": "Watergate condos offer serene bayside living with all of the amenities of a resort! TOP FLOOR Lovely 1/1 with upgrades throughout unit is awaiting your occupancy! Extra large Storage unit, 1 assigned garage parking space, 4 pools (2 heated year round to 82 degrees) 2 tennis courts, gym, hot tub, sauna, steam room, 24 hour on-site security, onsite HOA office, onsite laundry facilities. All public transportation options are right out your door including the 'Emery-Go-Round' (a free shuttle to MacArthur...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41063763",
+      "taxes": "4",
+      "hoaFees": "-",
+      "condoCoopFees": "$596 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1973",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "5",
+        "name": "Anna Yates Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "1.5"
+      },
+      {
+        "rating": "5",
+        "name": "Emery Secondary School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.2"
+      }
+    ]
+  },
+  {
+    "name": "1936 Hillsdale Street",
+    "image": "https://maps.googleapis.com/maps/api/streetview?key=AIzaSyDyHecinsUnnfHp51HkbLrQcTqXyyz3qOA&size=640x427&source=outdoor&location=1936%20Hillsdale%20Street,Hayward,CA,94541&signature=NZ04AJAiFZVCZynJI2OQpz6gXw0=",
+    "price": 1198000,
+    "address": "Hayward, CA 94541",
+    "postalCode": "94541",
+    "city": "Hayward",
+    "region": "Fairview",
+    "state": "CA",
+    "beds": "4",
+    "baths": "3",
+    "sqft": 1917,
+    "comingSoon": false,
+    "description": "Welcome to a hidden gem in the Hayward Hills! Nestled in a serene cul-de-sac, 1936 Hillsdale is a mid-century beauty brimming with charm and modern updates. This two-story home backs onto tranquil open space, providing a scenic mosaic park-like setting. Enjoy natural wood flooring and an inviting living room with a cozy fireplace. The dining area opens to a balcony with stunning creekside views. The kitchen features quartz countertops, dual-tone cabinets, stainless steel appliances, and modern lighting—perfect...",
+    "propertyListingDetails": {
+      "status": "New",
+      "daysOnCompass": "41064227",
+      "taxes": "Listed Today",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "1958",
+      "county": "0.51 AC / 22,400 SF"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "East Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "6",
+        "distance": "0.4"
+      },
+      {
+        "rating": "4",
+        "name": "Bret Harte Middle School",
+        "type": "Public",
+        "gradesFrom": "7",
+        "gradesTo": "8",
+        "distance": "1.0"
+      },
+      {
+        "rating": "6",
+        "name": "Hayward High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "2",
+        "name": "Faith Ringgold School of Arts and Science",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.6"
+      },
+      {
+        "rating": "5",
+        "name": "Knowledge Enlightens You (Key) Academy",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.6"
+      },
+      {
+        "rating": "5",
+        "name": "Hayward Twin Oaks Montessori",
+        "type": "Charter",
+        "gradesFrom": "1",
+        "gradesTo": "12",
+        "distance": "1.2"
+      }
+    ]
+  },
+  {
+    "name": "2922 Hillegass Avenue, Unit B",
+    "image": "https://www.compass.com/m/98daded2d19b01eda94835cfed234b3db677c89c_img_0_6c568/origin.webp",
+    "price": 649000,
+    "address": "Berkeley, CA 94705",
+    "postalCode": "94705",
+    "city": "Berkeley",
+    "region": "Elmwood",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 630,
+    "comingSoon": false,
+    "description": "Experience the tranquility of this secluded and private condo in the sought-after Elmwood neighborhood. The entire building is set back off the street creating a peaceful retreat to call home. The updated kitchen features quartz countertops, a tile backsplash, and stainless steel appliances, while dual pane windows allow light to flood the space. Modern conveniences such as in-unit washer & dryer and mini-splits for AC/Heat ensure extra comfort, as well as a parking space right in front of the unit....",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41062944",
+      "taxes": "10",
+      "hoaFees": "-",
+      "condoCoopFees": "$364 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1960",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "6",
+        "name": "John Muir Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.6"
+      },
+      {
+        "rating": "7",
+        "name": "Malcolm X Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.0"
+      },
+      {
+        "rating": "6",
+        "name": "Emerson Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.4"
+      },
+      {
+        "rating": "8",
+        "name": "Willard Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.2"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      },
+      {
+        "rating": "7",
+        "name": "Sylvia Mendez Elementary",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.3"
+      }
+    ]
+  },
+  {
+    "name": "1228 Channing Way",
+    "image": "https://www.compass.com/m/6276afd3b3dfc47e2ad7ee25017696073a24ff99_img_0_94b26/origin.webp",
+    "price": 949000,
+    "address": "Berkeley, CA 94702",
+    "postalCode": "94702",
+    "city": "Berkeley",
+    "region": "Poet's Corner",
+    "state": "CA",
+    "beds": "3",
+    "baths": "2",
+    "sqft": 1039,
+    "comingSoon": false,
+    "description": "Picture perfect, extensively renovated Craftsman bungalow in Poets Corner! From the welcoming front porch, to the open-concept living, dining and kitchen area this home oozes modern Berkeley charm. 3 bedroom, 2 bath with primary suite and large backyard features indoor/outdoor California living at its best. Updated kitchen with stainless appliances, quartz countertops and inviting breakfast bar lead directly to sunny, level backyard perfect for entertaining. This turn-key renovation promises space...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063034",
+      "taxes": "8",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1920",
+      "county": "0.08 AC / 3,500 SF"
+    },
+    "schools": [
+      {
+        "rating": "8",
+        "name": "Ruth Acty Elementary",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.1"
+      },
+      {
+        "rating": "9",
+        "name": "Berkeley Arts Magnet at Whittier School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.3"
+      },
+      {
+        "rating": "7",
+        "name": "Thousand Oaks Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "2.1"
+      },
+      {
+        "rating": "7",
+        "name": "Rosa Parks Environmental Science Magnet School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "7",
+        "name": "Martin Luther King Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.4"
+      },
+      {
+        "rating": "8",
+        "name": "Berkeley High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      }
+    ]
+  },
+  {
+    "name": "1100 Park Street",
+    "image": "https://www.compass.com/m/3d06e21bc001f43a7ffbac428b3b09c23d89dbb4_img_0_71e7c/origin.webp",
+    "price": 895000,
+    "address": "Alameda, CA 94501",
+    "postalCode": "94501",
+    "city": "Alameda",
+    "region": "Alameda East End",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 952,
+    "comingSoon": false,
+    "description": "Built in 1907 on Park St when Alameda was fast becoming an important East Bay hub, this single-story Craftsman jewel features 2 bedrooms, 1 bathroom, an open living room/dining room, an updated kitchen & a large basement and attic for plenty of storage. Located between Otis Dr & Encinal Ave, the home is just minutes to the South Shore Center's many amenities, TJ's, the shoreline/beach and, in the other direction, just 2 blocks to many of Alameda's most loved restaurants, cafes & boutiques. Beautifully...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063233",
+      "taxes": "9",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Detached",
+      "lotSize": "1907",
+      "county": "0.05 AC / 2,250 SF"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Frank Otis Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.6"
+      },
+      {
+        "rating": "8",
+        "name": "Lincoln Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.9"
+      },
+      {
+        "rating": "9",
+        "name": "Alameda High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.3"
+      },
+      {
+        "rating": "2",
+        "name": "Island High (Continuation) School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.2"
+      },
+      {
+        "rating": "10",
+        "name": "Alameda Science And Technology Institute",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.3"
+      }
+    ]
+  },
+  {
+    "name": "2801 Madera Avenue",
+    "image": "https://www.compass.com/m/9188d4eac62d314d6b8087e1f894322de1573335_img_0_b56ff/origin.webp",
+    "price": 749000,
+    "address": "Oakland, CA 94619",
+    "postalCode": "94619",
+    "city": "Oakland",
+    "region": "Maxwell Park",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 1202,
+    "comingSoon": false,
+    "description": "Nestled in the foothills in the heart of Oakland's desirable Maxwell Park neighborhood, this move-in-ready vintage home has style and charm to spare! Built in 1922 on a large corner lot, the home features 2 bedrooms, 1 bathroom, formal living/dining rooms, an eat-in kitchen, a laundry room and a detached garage. The present owners have thoughtfully preserved vintage features while updating the home for a contemporary lifestyle, and surrounded the house with mature, drought-resistant landscaping that...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41060376",
+      "taxes": "10",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1922",
+      "county": "0.09 AC / 4,000 SF"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Laurel Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.1"
+      },
+      {
+        "rating": "1",
+        "name": "Frick United Academy of Language",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.7"
+      },
+      {
+        "rating": "2",
+        "name": "Fremont High",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "6",
+        "name": "Melrose Leadership Academy",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "0.3"
+      },
+      {
+        "rating": "6",
+        "name": "Oakland Unity High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.6"
+      }
+    ]
+  },
+  {
+    "name": "2946 Morgan Avenue",
+    "image": "https://www.compass.com/m/9228302c072c1b8da2027687147a445e8a348537_img_0_7cfa7/origin.webp",
+    "price": 1068000,
+    "address": "Oakland, CA 94602",
+    "postalCode": "94602",
+    "city": "Oakland",
+    "region": "Lincoln Heights",
+    "state": "CA",
+    "beds": "3",
+    "sqft": 1255,
+    "comingSoon": false,
+    "description": "Lincoln Highlands Homestead. Thoughtfully updated Craftsman beckons on 1/4 acre lot w/ views, BIG backyard & expansion potential in 1 of Oakland’s hidden gem neighborhoods. Elevated position off the street imbues this sunny home w/ rare sense of peace & privacy. Covered porch welcomes you inside where modern conveniences blend w/ 1921 period details. Big living room w/ picture window frames stunning bay views & bathes the space in sunlight. Classic brick fireplace w/ bookcases adds charm. New light...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063134",
+      "taxes": "9",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "RESIDENTIAL / Detached",
+      "lotSize": "1921",
+      "county": "0.27 AC / 11,580 SF"
+    },
+    "schools": [
+      {
+        "rating": "7",
+        "name": "Sequoia Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.5"
+      },
+      {
+        "rating": "3",
+        "name": "Bret Harte Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "9",
+        "distance": "0.3"
+      },
+      {
+        "rating": "5",
+        "name": "Skyline High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "2.2"
+      },
+      {
+        "rating": "6",
+        "name": "Life Academy",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.5"
+      },
+      {
+        "rating": "8",
+        "name": "Oakland Charter High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.5"
+      }
+    ]
+  },
+  {
+    "name": "3115 Harrison Street",
+    "image": "https://www.compass.com/m/19954c86259889bc36f3d4e5cf3107d15976cd17_img_0_9c6ad/origin.webp",
+    "price": 999000,
+    "address": "Oakland, CA 94611",
+    "postalCode": "94611",
+    "city": "Oakland",
+    "region": "Harrison St-Oakland Ave",
+    "state": "CA",
+    "beds": "4",
+    "baths": "3",
+    "sqft": 1980,
+    "comingSoon": false,
+    "description": "Steps from Lake Merritt, 3115 Harrison St. is a charming duplex located in the heart of Oakland. This versatile property offers two units with great potential for rental income. The upstairs unit (tenant occupied) features two bedrooms and one bath, in-unit laundry and a living area that is bright and airy with vaulted ceilings and a cozy fireplace, perfect for relaxation or entertaining. The kitchen is equipped with modern appliances and ample storage space. The second unit (vacant) is generously...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063206",
+      "taxes": "8",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Multi Family",
+      "yearBuilt": "RESIDENTIAL INCOME / DUPLEX",
+      "lotSize": "1960",
+      "county": "0.06 AC / 2,484 SF"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.9"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.3"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.0"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.5"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "1.0"
+      },
+      {
+        "rating": "1",
+        "name": "Oakland International High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.1"
+      }
+    ]
+  },
+  {
+    "name": "350 Perkins Street, Unit 305",
+    "image": "https://www.compass.com/m/0e7b84bed3e5ad447ed1a5a92915008029ee6119_img_0_c5b4a/origin.webp",
+    "price": 425000,
+    "address": "Oakland, CA 94610",
+    "postalCode": "94610",
+    "city": "Oakland",
+    "region": "Adams Point",
+    "state": "CA",
+    "beds": "1",
+    "sqft": 675,
+    "comingSoon": false,
+    "description": "Perched atop the rear corner of the building, this cozy condo overlooks lush gardens and a welcoming courtyard. Offering the perfect blend of comfort and convenience in the Lake Merritt nabe of Adams Point, this lovely unit features an open floor plan seamlessly connecting the living room, dining area, and modern kitchen with quartz countertops, stainless-steel appliances, and a stunning tile backsplash. The generous bedroom offers plenty of closet space. A stylishly updated bathroom offers a place...",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "41063368",
+      "taxes": "7",
+      "hoaFees": "-",
+      "condoCoopFees": "$494 / month",
+      "compassType": "-",
+      "mlsType": "Condo",
+      "yearBuilt": "Condo/Coop/TIC/Loft / Condominium",
+      "lotSize": "1962",
+      "county": "Alameda County"
+    },
+    "schools": [
+      {
+        "rating": "3",
+        "name": "Piedmont Avenue Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "1.2"
+      },
+      {
+        "rating": "2",
+        "name": "Westlake Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "0.4"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland Technical High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.4"
+      },
+      {
+        "rating": "1",
+        "name": "Street Academy (Alternative)",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.7"
+      },
+      {
+        "rating": "7",
+        "name": "Oakland School for the Arts",
+        "type": "Charter",
+        "gradesFrom": "6",
+        "gradesTo": "12",
+        "distance": "0.9"
+      },
+      {
+        "rating": "7",
+        "name": "American Indian Public Charter School Ii",
+        "type": "Charter",
+        "gradesFrom": "K",
+        "gradesTo": "8",
+        "distance": "1.0"
+      }
+    ]
+  },
+  {
+    "name": "235 Albion Avenue",
+    "image": "https://www.compass.com/m/a4eac5ada3c38c94441d9b5cf306bd3cb9d2b304_img_0_756c5/origin.webp",
+    "price": 649000,
+    "address": "San Lorenzo, CA 94580",
+    "postalCode": "94580",
+    "city": "San Lorenzo",
+    "region": "Four Corners",
+    "state": "CA",
+    "beds": "2",
+    "sqft": 836,
+    "comingSoon": false,
+    "description": "Welcome to your ideal starter home, a beautifully updated 2 bed, 1 bath gem. As you step into the home, you're greeted by an inviting living room bathed in abundant natural light. The spacious eat-in kitchen features white farm-style cabinets, complemented by modern gray tile countertops and a matching backsplash. Equipped with stainless steel appliances, including a gas stove with a matching microwave hood, a dishwasher, and a large dual sink, this kitchen is designed for both style and functionality....",
+    "propertyListingDetails": {
+      "status": "Active",
+      "daysOnCompass": "424043300",
+      "taxes": "1",
+      "hoaFees": "-",
+      "condoCoopFees": "-",
+      "compassType": "-",
+      "mlsType": "Single Family",
+      "yearBuilt": "Residential / Single Family Residence",
+      "lotSize": "1954",
+      "county": "0.07 AC / 3,149 SF"
+    },
+    "schools": [
+      {
+        "rating": "4",
+        "name": "Grant Elementary School",
+        "type": "Public",
+        "gradesFrom": "K",
+        "gradesTo": "5",
+        "distance": "0.6"
+      },
+      {
+        "rating": "4",
+        "name": "Washington Manor Middle School",
+        "type": "Public",
+        "gradesFrom": "6",
+        "gradesTo": "8",
+        "distance": "1.2"
+      },
+      {
+        "rating": "4",
+        "name": "San Lorenzo High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "0.3"
+      },
+      {
+        "rating": "5",
+        "name": "East Bay Arts High School",
+        "type": "Public",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.3"
+      },
+      {
+        "rating": "2",
+        "name": "Royal Sunset (Continuation) School",
+        "type": "Public",
+        "gradesFrom": "7",
+        "gradesTo": "12",
+        "distance": "1.3"
+      },
+      {
+        "rating": "9",
+        "name": "KIPP King Collegiate High School",
+        "type": "Charter",
+        "gradesFrom": "9",
+        "gradesTo": "12",
+        "distance": "1.5"
+      }
+    ]
+  }
+]
