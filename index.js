@@ -1,11 +1,15 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-async function run() {
+let sum = 0;
+let c = 0;
+async function run(c1) {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
+  c++;
   await page.goto(
-    "https://www.compass.com/homes-for-sale/alameda-county-ca/mapview=37.905823999999996,-121.469214,37.454186,-122.373782/",{ timeout: 60000 }
+    `https://www.compass.com/homes-for-sale/alameda-county-ca/start=${c1}/`,
+    { timeout: 90000 }
   );
   let InfoArray = [];
 
@@ -308,7 +312,7 @@ async function run() {
         "span.public-facts__TaxRecordItem-sc-19n5r74-2 span"
       )?.innerHTML;
       value=data[1]?.querySelector('span.public-facts__TaxRecordItem-sc-19n5r74-2 strong')?.innerHTML?.split(' ')[0]?.replace(/[,$<!--]/g,"");
-     
+
       dataMap2.set(key, Number(value));
       records[title2] = Object.fromEntries(dataMap2);
       return records;
@@ -331,7 +335,14 @@ async function run() {
     // console.log(JSON.stringify(InfoArray, null, 2));
   }
   //Save data to JSON file
-  fs.writeFile("demo4.json", JSON.stringify(InfoArray), (err) => {
+
+  if (c <= 8) {
+    sum = sum + 41;
+    run(sum);
+    // await browser.close();
+  }
+
+  fs.appendFile("demo12.json", JSON.stringify(InfoArray), (err) => {
     if (err) throw err;
     console.log("File saved");
   });
@@ -359,6 +370,7 @@ async function run1() {
   });
 
   console.log(propertyHistory);
+
   await browser.close();
 }
 
@@ -600,5 +612,9 @@ async function run7() {
 }
 
 // run7();
-
-run();
+// let sum=0;
+run(0);
+// for(let i=0;i<9;i++){
+//   run(sum);
+//   sum=sum+41;
+// }

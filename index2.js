@@ -123,3 +123,90 @@ run6();
 
     //   return schoolArr;
     // });
+
+
+
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto('YOUR_INITIAL_PAGE_URL');
+
+  let allUrls = [];
+  let hasNextPage = true;
+
+  while (hasNextPage) {
+    // Extract URLs from the current page
+    const pageUrls = await page.evaluate(() => {
+      const elements = document.querySelectorAll(".uc-lolCardView-cards .uc-listingPhotoCard a");
+      return Array.from(elements).map(el => el.href);
+    });
+    allUrls = allUrls.concat(pageUrls);
+
+    // Check if there is a next page and navigate to it
+    hasNextPage = await page.evaluate(() => {
+      const nextPageButton = document.querySelector('.next-page-selector'); // Replace with the actual selector for the next page button
+      if (nextPageButton) {
+        nextPageButton.click();
+        return true;
+      }
+      return false;
+    });
+
+    if (hasNextPage) {
+      await page.waitForNavigation({ waitUntil: 'networkidle0' });
+    }
+  }
+
+  console.log(allUrls);
+  console.log(`Total URLs collected: ${allUrls.length}`);
+
+
+
+
+
+
+  // let allUrls = [];
+  // let hasNextPage = true;
+  // while (hasNextPage) {
+  //   const pageUrls = await page.evaluate(() => {
+  //     const elements = document.querySelectorAll(
+  //       ".uc-lolCardView-cards .uc-listingPhotoCard a"
+  //     );
+  //     return Array.from(elements).map((el) => el.href);
+  //   });
+  //   allUrls = allUrls.concat(pageUrls);
+
+  //   hasNextPage = await page.evaluate(() => {
+  //     const nextPageButton = document.querySelectorAll(
+  //       "div.cx-paginator-section button.cx-enclosedBtn"
+  //     ); // Replace with the actual selector for the next page button
+  //     console.log("Hi");
+  //     console.log(nextPageButton);
+  //     nextPageButton.forEach((element) => {
+  //       if (element) {
+  //         element.click();
+  //         return true;
+  //       }
+  //       return false;
+  //     });
+  //   });
+
+  //   if (hasNextPage) {
+  //     await page.waitForNavigation({ waitUntil: "networkidle0" });
+  //   }
+  // }
+  //async function extractURL() {
+    // const pageUrls = await page.evaluate(() => {
+    //   let allUrls = [];
+
+    //     const elements = document.querySelectorAll(
+    //       ".uc-lolCardView-cards .uc-listingPhotoCard a"
+    //     );
+    //     let urlOfPages = Array.from(elements).map((el) => el.href);
+    //     allUrls = allUrls.concat(urlOfPages);
+      
+    //   return allUrls;
+    // });
+    // return pageUrls;
+  //}
